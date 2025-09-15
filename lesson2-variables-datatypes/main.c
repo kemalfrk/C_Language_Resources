@@ -33,9 +33,22 @@ int main()
 
     toplam=sayi1+sayi2+sayi3;
 
-
-
     printf("Toplam : %d\n",toplam);
+
+
+    int dogumYili1,dogumYili2,yasFarki;
+
+    dogumYili1=1975;
+    dogumYili2=2003;
+    yasFarki=dogumYili1-dogumYili2;
+
+    printf("Yas Farki:%d\n",yasFarki);
+
+
+
+
+
+
 
 
 
